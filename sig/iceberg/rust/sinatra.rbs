@@ -1,0 +1,8 @@
+module Iceberg
+  module Rust
+    module Sinatra
+      VERSION: String
+      # See the writing guide of rbs: https://github.com/ruby/rbs#guides
+    end
+  end
+end
