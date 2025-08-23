@@ -1,0 +1,11 @@
+[package]
+name = "iceberg_rust_sinatra"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+rutie = "0.10.1"
+iceberg = "0.3.0"
