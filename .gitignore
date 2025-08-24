@@ -6,6 +6,7 @@
 /pkg/
 /spec/reports/
 /tmp/
+/ext/iceberg_rust_sinatra/target/
 
 # rspec failure tracking
 .rspec_status
